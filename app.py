@@ -1,7 +1,7 @@
 
 from flask import Flask, request, render_template
 
-app = Flask(__name__)
+app = Flask(陳蘭其)
 
 # 建立題庫
 zh_ko_dict = {
