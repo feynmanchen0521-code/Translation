@@ -1,1 +1,1 @@
-# Translation
+# 資管系 陳蘭其
